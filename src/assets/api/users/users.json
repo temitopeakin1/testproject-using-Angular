@@ -1,0 +1,22 @@
+[
+    {
+      "name": "temi",
+      "email": "temi@gmail.com",
+      "posts": [
+        {
+          "title": "First Post",
+          "body": "this is my first content"
+        }
+      ]
+    },
+    {
+      "name": "femi",
+      "email": "femi@gmail.com",
+      "posts": [
+        {
+          "title": "Second Post",
+          "body": "this is my second content"
+        }
+      ]
+    }
+  ]

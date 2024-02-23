@@ -1,0 +1,21 @@
+<div class="container">
+    <h1 class="tltle">Posts</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Posts</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of users">
+                <td>{{ user.posts}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- 
+<div class='row'>
+    <div class='col-md-4'>Name:</div>
+    <div class='col-md-8'>{{product.productName}}</div>
+  </div> -->
